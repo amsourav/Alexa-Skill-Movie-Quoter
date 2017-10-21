@@ -1,0 +1,28 @@
+{
+    "intents": [
+        {
+            "name": "AMAZON.CancelIntent",
+            "samples": []
+        },
+        {
+            "name": "AMAZON.HelpIntent",
+            "samples": []
+        },
+        {
+            "name": "AMAZON.StopIntent",
+            "samples": []
+        },
+        {
+            "name": "AskQuote",
+            "samples": [
+                "Quote a movie",
+                "Quotes",
+                "Give me a movie quote",
+                "Alexa quote a movie",
+                "Alexa ask movie quoter for quotes",
+                "Alexa open movie quoter"
+            ],
+            "slots": []
+        }
+    ]
+}
