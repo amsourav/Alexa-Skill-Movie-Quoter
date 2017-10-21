@@ -699,5 +699,5 @@ function buildResponse(sessionAttributes, speechletResponse) {
 
 // Random number generator :smile:
 function getQuote() {
-    return quotesArray[Date.now()%100]
+    return quotesArray[Date.now()%quotesArray.length]
 }
