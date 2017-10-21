@@ -551,12 +551,12 @@ var quotesArray = [
     },
     {
         unique_id: 108,
-        qoute: "The things you own end up owning you.",
+        quote: "The things you own end up owning you.",
         movieName: "Fight Club"
     },
     {
         unique_id: 109,
-        qoute: "It's only after we've lost everything that we're free to do anything.",
+        quote: "It's only after we've lost everything that we're free to do anything.",
         movieName: "Fight Club"
     },
     {
@@ -571,17 +571,17 @@ var quotesArray = [
     },
     {
         unique_id: 112,
-        qoute: "They're taking the Hobbits to Isengard.",
+        quote: "They're taking the Hobbits to Isengard.",
         movieName: "The Lord of the Rings: The Two Towers"
     },
     {
         unique_id: 113,
-        qoute: "That's it, man. Game over, man. Game over!",
+        quote: "That's it, man. Game over, man. Game over!",
         movieName: "Aliens"
     },
     {
         unique_id: 114,
-        qoute: "I know it was you, Fredo. You broke my heart. You broke my heart!",
+        quote: "I know it was you, Fredo. You broke my heart. You broke my heart!",
         movieName: "The Godfather Part II"
     }
 ]
