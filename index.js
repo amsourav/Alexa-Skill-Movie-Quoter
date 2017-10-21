@@ -523,8 +523,7 @@ exports.handler = function(event, context) {
          */
 
         if (
-            event.session.application.applicationId !==
-            'amzn1.ask.skill.83e22235-e5ef-4c87-a470-c629ac7abf7c'
+            event.session.application.applicationId !== process.env.APP_ID
         ) {
             context.fail('Invalid Application ID');
         }
@@ -593,7 +592,7 @@ function onLaunch(launchRequest, session, callback) {
         'Welcome to Movie Quoter.  The purpose of this skill is see what the quotes are from popular movies.  To start using the skill, say Alexa, ask movie quoter to quote movies';
     callback(
         session.attributes,
-        buildSpeechletResponse(cardTitle, speechOutput, '', true)
+        buildSpeechletResponse(cardTitle, speechOutput, '', false) // False cuz we dont want the session to end
     );
 }
 
@@ -631,13 +630,18 @@ function onSessionEnded(sessionEndedRequest, session) {
             session.sessionId
     );
 
-    // Add any cleanup logic here
+    var speechOutput =
+        'Thank you for using movie quoter. Goodbye!';
+    callback(
+        session.attributes,
+        buildSpeechletResponseWithoutCard(speechOutput, '', true)
+    );
 }
 
 function handleAskQuoteRequest(intent, session, callback) {
     callback(
         session.attributes,
-        buildSpeechletResponseWithoutCard(getQuote().quote, '', 'true')
+        buildSpeechletResponseWithoutCard(getQuote().quote, '', true)
     );
 }
 
@@ -692,6 +696,8 @@ function buildResponse(sessionAttributes, speechletResponse) {
     };
 }
 
+
+// Random number generator :smile:
 function getQuote() {
     return quotesArray[Date.now()%100]
 }
