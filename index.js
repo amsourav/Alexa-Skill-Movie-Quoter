@@ -549,6 +549,76 @@ var quotesArray = [
         quote: 'Why so serious?',
         movieName: 'The Dark Knight',
     },
+    {
+        unique_id: 108,
+        quote: 'As if!',
+        movieName: 'Clueless',
+    },
+    {
+        unique_id: 109,
+        quote: 'Wax on, wax off.',
+        movieName: 'The Karate Kid',
+    },
+    {
+        unique_id: 110,
+        quote: "That'll do, Pig. That'll do.",
+        movieName: 'Babe',
+    },
+    {
+        unique_id: 111,
+        quote: "I don't want to survive. I want to survive",
+        movieName: '12 years a Slave',
+    },
+    {
+        unique_id: 112,
+        quote: 'Good morning, Vietnam!',
+        movieName: 'Good Morning, Vietnam',
+    },
+    {
+        unique_id: 113,
+        quote: "I mean, funny like I'm a clown? I amuse you?",
+        movieName: 'Goodfellas',
+    },
+    {
+        unique_id: 114,
+        quote: "Help me, Obi-Wan Kenobi. You're my only hope.",
+        movieName: 'Star Wars',
+    },
+    {
+        unique_id: 115,
+        quote: 'Pay no attention to that man behind the curtain!',
+        movieName: 'The Wizard of Oz',
+    },
+    {
+        unique_id: 116,
+        quote: 'The Dude abides',
+        movieName: 'The Big Lebowski',
+    },
+    {
+        unique_id: 117,
+        quote: 'Just keep swimming.',
+        movieName: 'Finding Nemo',
+    },
+    {
+        unique_id: 118,
+        quote: 'Leave the gun. Take the cannoli',
+        movieName: 'The Godfather',
+    },
+    {
+        unique_id: 119,
+        quote: "I am serious. And don't call me Shirley",
+        movieName: 'Airplane',
+    },
+    {
+        unique_id: 120,
+        quote: 'To infinity and beyond!',
+        movieName: 'Toy Story',
+    },
+    {
+        unique_id: 121,
+        quote: 'The first rule of Fight Club is: You do not talk about Fight Club.',
+        movieName: 'Fight Club',
+    },
 ];
 
 exports.handler = function(event, context) {
