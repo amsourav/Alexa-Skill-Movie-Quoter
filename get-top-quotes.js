@@ -684,4 +684,14 @@ module.exports = [
         quote: 'Goonies never say die!',
         movieName: 'The Goonies',
     },
+    {
+      unique_id: 134,
+      quote: 'I don’t believe it. I just don’t believe it. I bring you here to protect me from these characters, and the only one I’ve got on my side is the blood-sucking lawyer.',
+      movieName: 'Jurassic Park'
+    },
+    {
+      unique_id: 135,
+      quote: 'It\'s a UNIX system, I know this!',
+      movieName: 'Jurassic Park'
+    }
 ]
