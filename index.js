@@ -507,7 +507,39 @@ var quotesArray = [
         unique_id: 99,
         quote: "I'm the King of the World",
         movieName: "Titanic"
+    },
+     {
+        unique_id: 100,
+        quote: "They may take our lives, but they'll never take our freedom!",
+        movieName: "Braveheart"
+    },
+     {
+        unique_id: 101,
+        quote: "You complete me.",
+        movieName: "Jerry Maguire"
+    },
+     {
+        unique_id: 102,
+        quote: "My name is Maximus Decimus Meridius, commander of the Armies of the North, General of the Felix Legions and loyal servant to the true emperor, Marcus Aurelius. Father to a murdered son, husband to a murdered wife. And I will have my vengeance, in this life or the next.",
+        movieName: "Gladiator"
+    },
+     {
+        unique_id: 103,
+        quote: "I drink your milkshake!",
+        movieName: "There Will Be Blood"
+    },
+     {
+        unique_id: 104,
+        quote: "Get your stinking paws off me, you damned dirty ape!",
+        movieName: "Planet of the Apes"
+    },
+     {
+        unique_id: 105,
+        quote: "You make me want to be a better man.",
+        movieName: "As Good as It Gets"
     }
+    
+    
 ]
 
 exports.handler = function(event, context) {
