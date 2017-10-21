@@ -659,4 +659,29 @@ module.exports = [
             'The first rule of Fight Club is: You do not talk about Fight Club.',
         movieName: 'Fight Club',
     },
+    {
+        unique_id: 129,
+        quote: 'Hello. My name is Inigo Montoya. You killed my father. Prepare to die.',
+        movieName: 'The Princess Bride',
+    },
+    {
+        unique_id: 130,
+        quote: 'You\'re killin\' me Smalls!',
+        movieName: 'The Sandlot',
+    },
+    {
+        unique_id: 131,
+        quote: 'A person is smart. People are dumb, panicky, dangerous animals and you know it.',
+        movieName: 'Men in Black',
+    },
+    {
+        unique_id: 132,
+        quote: 'We are intrepid. We carry on.',
+        movieName: 'Elizabethtown',
+    },
+    {
+        unique_id: 133,
+        quote: 'Goonies never say die!',
+        movieName: 'The Goonies',
+    },
 ]
