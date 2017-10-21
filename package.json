@@ -1,14 +1,26 @@
 {
-  "name": "moviequoteralexa",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Sourav Sarkar",
-  "license": "MIT",
-  "dependencies": {
-    "alexa-app": "^4.2.0"
-  }
+    "name": "moviequoteralexa",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "precommit": "lint-staged",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "lint-staged": {
+        "*.{js,json}": [
+            "prettier --no-semi false --single-quote --tab-width 4 --trailing-comma es5 --write",
+            "git add"
+        ]
+    },
+    "author": "Sourav Sarkar",
+    "license": "MIT",
+    "dependencies": {
+        "alexa-app": "^4.2.0"
+    },
+    "devDependencies": {
+        "husky": "^0.14.3",
+        "lint-staged": "^4.3.0",
+        "prettier": "1.7.4"
+    }
 }
