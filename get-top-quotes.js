@@ -551,4 +551,112 @@ module.exports = [
         quote: 'Why so serious?',
         movieName: 'The Dark Knight',
     },
+    {
+        unique_id: 108,
+        quote: 'The things you own end up owning you.',
+        movieName: 'Fight Club',
+    },
+    {
+        unique_id: 109,
+        quote:
+            "It's only after we've lost everything that we're free to do anything.",
+        movieName: 'Fight Club',
+    },
+    {
+        unique_id: 110,
+        quote: 'Yippee-ki-yay, motherfucker.',
+        movieName: 'Die Hard',
+    },
+    {
+        unique_id: 111,
+        quote: 'Looks like I picked the wrong week to quit amphetamines.',
+        movieName: 'Airplane',
+    },
+    {
+        unique_id: 112,
+        quote: "They're taking the Hobbits to Isengard.",
+        movieName: 'The Lord of the Rings: The Two Towers',
+    },
+    {
+        unique_id: 113,
+        quote: "That's it, man. Game over, man. Game over!",
+        movieName: 'Aliens',
+    },
+    {
+        unique_id: 114,
+        quote:
+            'I know it was you, Fredo. You broke my heart. You broke my heart!',
+        movieName: 'The Godfather Part II',
+    },
+    {
+        unique_id: 115,
+        quote: 'As if!',
+        movieName: 'Clueless',
+    },
+    {
+        unique_id: 116,
+        quote: 'Wax on, wax off.',
+        movieName: 'The Karate Kid',
+    },
+    {
+        unique_id: 117,
+        quote: "That'll do, Pig. That'll do.",
+        movieName: 'Babe',
+    },
+    {
+        unique_id: 118,
+        quote: "I don't want to survive. I want to survive",
+        movieName: '12 years a Slave',
+    },
+    {
+        unique_id: 119,
+        quote: 'Good morning, Vietnam!',
+        movieName: 'Good Morning, Vietnam',
+    },
+    {
+        unique_id: 120,
+        quote: "I mean, funny like I'm a clown? I amuse you?",
+        movieName: 'Goodfellas',
+    },
+    {
+        unique_id: 121,
+        quote: "Help me, Obi-Wan Kenobi. You're my only hope.",
+        movieName: 'Star Wars',
+    },
+    {
+        unique_id: 122,
+        quote: 'Pay no attention to that man behind the curtain!',
+        movieName: 'The Wizard of Oz',
+    },
+    {
+        unique_id: 123,
+        quote: 'The Dude abides',
+        movieName: 'The Big Lebowski',
+    },
+    {
+        unique_id: 124,
+        quote: 'Just keep swimming.',
+        movieName: 'Finding Nemo',
+    },
+    {
+        unique_id: 125,
+        quote: 'Leave the gun. Take the cannoli',
+        movieName: 'The Godfather',
+    },
+    {
+        unique_id: 126,
+        quote: "I am serious. And don't call me Shirley",
+        movieName: 'Airplane',
+    },
+    {
+        unique_id: 127,
+        quote: 'To infinity and beyond!',
+        movieName: 'Toy Story',
+    },
+    {
+        unique_id: 128,
+        quote:
+            'The first rule of Fight Club is: You do not talk about Fight Club.',
+        movieName: 'Fight Club',
+    },
 ]
