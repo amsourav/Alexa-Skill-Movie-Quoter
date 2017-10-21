@@ -537,9 +537,17 @@ var quotesArray = [
         unique_id: 105,
         quote: "You make me want to be a better man.",
         movieName: "As Good as It Gets"
-    }
-    
-    
+    },
+    {
+       unique_id: 106,
+       quote: "Never compromise. Not even in the face of Armageddon.",
+       movieName: "Watchmen"
+   }
+   {
+      unique_id: 107,
+      quote: "Why so serious?",
+      movieName: "The Dark Knight"
+  }
 ]
 
 exports.handler = function(event, context) {
