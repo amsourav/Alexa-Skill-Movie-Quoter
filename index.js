@@ -549,7 +549,42 @@ var quotesArray = [
         quote: 'Why so serious?',
         movieName: 'The Dark Knight',
     },
-];
+    {
+        unique_id: 108,
+        qoute: "The things you own end up owning you.",
+        movieName: "Fight Club"
+    },
+    {
+        unique_id: 109,
+        qoute: "It's only after we've lost everything that we're free to do anything.",
+        movieName: "Fight Club"
+    },
+    {
+        unique_id: 110,
+        quote: "Yippee-ki-yay, motherfucker.",
+        movieName: "Die Hard"   
+    },
+    {
+        unique_id: 111,
+        quote: "Looks like I picked the wrong week to quit amphetamines.",
+        movieName: "Airplane"
+    },
+    {
+        unique_id: 112,
+        qoute: "They're taking the Hobbits to Isengard.",
+        movieName: "The Lord of the Rings: The Two Towers"
+    },
+    {
+        unique_id: 113,
+        qoute: "That's it, man. Game over, man. Game over!",
+        movieName: "Aliens"
+    },
+    {
+        unique_id: 114,
+        qoute: "I know it was you, Fredo. You broke my heart. You broke my heart!",
+        movieName: "The Godfather Part II"
+    }
+]
 
 exports.handler = function(event, context) {
     try {
