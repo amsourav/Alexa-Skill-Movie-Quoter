@@ -5,7 +5,7 @@ A simple Alexa Skill that quotes movies.
 
 # Steps to run
 
-- Host `index.js` on AWS lambda
+- Zip `index.js` and `get-top-quotes.js`; And upload to AWS lambda
 - Paste `intents.json` in your Alexa Dashboard and link your AWS Lambda ARN
 
 
