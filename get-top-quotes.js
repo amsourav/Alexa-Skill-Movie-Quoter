@@ -716,56 +716,111 @@ module.exports = [
     },
     {
         unique_id: 140,
+        quote: 'I\'m just one stomach flu away from my goal weight.',
+        movieName: 'The Devil Wears Prada'
+    },
+    {
+        unique_id: 141,
+        quote: 'Just when I thought I was out, they pull me back in.',
+        movieName: 'The Godfather Part III'
+    },
+    {
+        unique_id: 142,
+        quote: 'You is kind. You is smart. You is important.',
+        movieName: 'The Help'
+    },
+    {
+        unique_id: 143,
+        quote: 'Every time a bell rings, an angel gets his wings.',
+        movieName: 'It\'s a Wonderful Life'
+    },
+    {
+        unique_id: 144,
+        quote: 'The greatest trick the devil ever pulled was convincing the world he didn\'t exist.',
+        movieName: 'The Usual Suspects'
+    },
+    {
+        unique_id: 145,
+        quote: 'Oh yes, the past can hurt. But you can either run from it, or learn from it.',
+        movieName: 'The Lion King'
+    },
+    {
+        unique_id: 146,
+        quote: 'Why are you trying so hard to fit in when you were born to stand out?',
+        movieName: 'What a Girl Wants'
+    },
+    {
+        unique_id: 147,
+        quote: 'Don\'t let anyone ever make you feel like you don\'t deserve what you want.',
+        movieName: '10 Things I Hate About You'
+    },
+    {
+        unique_id: 148,
+        quote: 'You cannot live your life to please others. The choice must be yours.',
+        movieName: 'Alice in Wonderland'
+    },
+    {
+        unique_id: 149,
+        quote: 'After a while, you learn to ignore the names people call you and just trust who you are.',
+        movieName: 'Shrek'
+    },
+    {
+        unique_id: 150,
+        quote: 'All we have to decide is what to do with the time that is given to us.',
+        movieName: 'Lord of the Rings: The Fellowship of the Ring'
+    },
+    {
+        unique_id: 151,
         quote: 'Stupid is as stupid does.',
         movieName: 'Forrest Gump'
     },
     {
-        unique_id: 141,
+        unique_id: 152,
         quote: 'It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.',
         movieName: 'Harry Potter'
     },
     {
-        unique_id: 142,
+        unique_id: 153,
         quote: 'It\'s hard to look back and see the truth about people you love.',
         movieName: 'American History X'
     },
     {
-        unique_id: 143,
+        unique_id: 154,
         quote: 'What is it to be human? What is it to ache? What is it to be alive?',
         movieName: 'Anomalisa'
     },
     {
-        unique_id: 144,
+        unique_id: 155,
         quote: 'Here’s the thing, being good or bad mostly depends on who you’re standing next to.',
         movieName: 'The Bad Batch'
     },
     {
-        unique_id: 145,
+        unique_id: 156,
         quote: 'My face is mine, my hands are mine, my mouth is mine, but I\'m not. I\'m yours.',
         movieName: 'Captain Fantastic'
     },
     {
-        unique_id: 145,
+        unique_id: 157,
         quote: 'You can tell a lot about a person by what\'s on their playlist.',
         movieName: 'Begin Again'
     },
     {
-        unique_id: 146,
+        unique_id: 158,
         quote: 'Life is a comedy written by a sadistic comedy writer.',
         movieName: 'Cafe Society'
     },
     {
-        unique_id: 147,
+        unique_id: 159,
         quote: 'If you assume that there is no hope, you guarantee that there will be no hope.',
         movieName: 'Captain Fantastic'
     },
     {
-        unique_id: 148,
+        unique_id: 160,
         quote: 'Some people don\'t let you forget them.',
         movieName: 'The Disappearance of Eleanor Rigby: Them'
     },
     {
-        unique_id: 149,
+        unique_id: 161,
         quote: 'There are some sins that you commit that you can\'t come back from, you know? No matter how hard you try. You just can\'t.',
         movieName: 'The Drop'
     }
