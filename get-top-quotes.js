@@ -16,7 +16,7 @@ module.exports = [
     {
         unique_id: 2,
         quote:
-            "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.",
+        "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.",
         movieName: 'On the Waterfront',
     },
     {
@@ -98,13 +98,13 @@ module.exports = [
     {
         unique_id: 19,
         quote:
-            'Louis, I think this is the beginning of a beautiful friendship.',
+        'Louis, I think this is the beginning of a beautiful friendship.',
         movieName: 'Casablanca',
     },
     {
         unique_id: 20,
         quote:
-            'A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.',
+        'A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.',
         movieName: 'The Silence of the Lambs',
     },
     {
@@ -170,7 +170,7 @@ module.exports = [
     {
         unique_id: 33,
         quote:
-            "You know how to whistle, don't you, Steve? You just put your lips together and blow.",
+        "You know how to whistle, don't you, Steve? You just put your lips together and blow.",
         movieName: 'To Have and Have Not',
     },
     {
@@ -181,7 +181,7 @@ module.exports = [
     {
         unique_id: 35,
         quote:
-            "Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!",
+        "Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!",
         movieName: 'Gold Hat',
     },
     {
@@ -192,7 +192,7 @@ module.exports = [
     {
         unique_id: 37,
         quote:
-            'Today, I consider myself the luckiest man on the face of the Earth.',
+        'Today, I consider myself the luckiest man on the face of the Earth.',
         movieName: 'The Pride of the Yankees',
     },
     {
@@ -203,7 +203,7 @@ module.exports = [
     {
         unique_id: 39,
         quote:
-            "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
+        "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
         movieName: 'Forrest Gump',
     },
     {
@@ -255,7 +255,7 @@ module.exports = [
     {
         unique_id: 50,
         quote:
-            "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
+        "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
         movieName: 'Dirty Harry',
     },
     {
@@ -266,7 +266,7 @@ module.exports = [
     {
         unique_id: 52,
         quote:
-            "One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know.",
+        "One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know.",
         movieName: 'Animal Crackers',
     },
     {
@@ -323,7 +323,7 @@ module.exports = [
         unique_id: 63,
         quote: "Gentlemen, you can't fight in here! This is the War Room!",
         movieName:
-            'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb',
+        'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb',
     },
     {
         unique_id: 64,
@@ -338,7 +338,7 @@ module.exports = [
     {
         unique_id: 66,
         quote:
-            'Of all the gin joints in all the towns in all the world, she walks into mine.',
+        'Of all the gin joints in all the towns in all the world, she walks into mine.',
         movieName: 'Casablanca',
     },
     {
@@ -420,7 +420,7 @@ module.exports = [
     {
         unique_id: 83,
         quote:
-            "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+        "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
         movieName: 'King Kong',
     },
     {
@@ -436,19 +436,19 @@ module.exports = [
     {
         unique_id: 86,
         quote:
-            "Sawyer, you're going out a youngster, but you've got to come back a star!",
+        "Sawyer, you're going out a youngster, but you've got to come back a star!",
         movieName: '42nd Street',
     },
     {
         unique_id: 87,
         quote:
-            "Listen to me, mister. You're my knight in shining armor. Don't you forget it. You're going to get back on that horse, and I'm going to be right behind you, holding on tight, and away we're gonna go, go, go!",
+        "Listen to me, mister. You're my knight in shining armor. Don't you forget it. You're going to get back on that horse, and I'm going to be right behind you, holding on tight, and away we're gonna go, go, go!",
         movieName: 'On Golden Pond',
     },
     {
         unique_id: 88,
         quote:
-            "Tell 'em to go out there with all they got and win just one for the Gipper.",
+        "Tell 'em to go out there with all they got and win just one for the Gipper.",
         movieName: 'Knute Rockne, All American',
     },
     {
@@ -464,13 +464,13 @@ module.exports = [
     {
         unique_id: 91,
         quote:
-            "Cinderella story. Outta nowhere. A former greenskeeper, now, about to become the Masters champion. It looks like a mirac...It's in the hole! It's in the hole! It's in the hole!",
+        "Cinderella story. Outta nowhere. A former greenskeeper, now, about to become the Masters champion. It looks like a mirac...It's in the hole! It's in the hole! It's in the hole!",
         movieName: 'Caddyshack',
     },
     {
         unique_id: 92,
         quote:
-            'Life is a banquet, and most poor suckers are starving to death!',
+        'Life is a banquet, and most poor suckers are starving to death!',
         movieName: 'Auntie Mame',
     },
     {
@@ -481,7 +481,7 @@ module.exports = [
     {
         unique_id: 94,
         quote:
-            'Carpe diem. Seize the day, boys. Make your lives extraordinary.',
+        'Carpe diem. Seize the day, boys. Make your lives extraordinary.',
         movieName: 'Dead Poets Society',
     },
     {
@@ -492,7 +492,7 @@ module.exports = [
     {
         unique_id: 96,
         quote:
-            'My mother thanks you. My father thanks you. My sister thanks you. And I thank you.',
+        'My mother thanks you. My father thanks you. My sister thanks you. And I thank you.',
         movieName: 'Yankee Doodle Dandy',
     },
     {
@@ -523,7 +523,7 @@ module.exports = [
     {
         unique_id: 102,
         quote:
-            'My name is Maximus Decimus Meridius, commander of the Armies of the North, General of the Felix Legions and loyal servant to the true emperor, Marcus Aurelius. Father to a murdered son, husband to a murdered wife. And I will have my vengeance, in this life or the next.',
+        'My name is Maximus Decimus Meridius, commander of the Armies of the North, General of the Felix Legions and loyal servant to the true emperor, Marcus Aurelius. Father to a murdered son, husband to a murdered wife. And I will have my vengeance, in this life or the next.',
         movieName: 'Gladiator',
     },
     {
@@ -559,7 +559,7 @@ module.exports = [
     {
         unique_id: 109,
         quote:
-            "It's only after we've lost everything that we're free to do anything.",
+        "It's only after we've lost everything that we're free to do anything.",
         movieName: 'Fight Club',
     },
     {
@@ -585,7 +585,7 @@ module.exports = [
     {
         unique_id: 114,
         quote:
-            'I know it was you, Fredo. You broke my heart. You broke my heart!',
+        'I know it was you, Fredo. You broke my heart. You broke my heart!',
         movieName: 'The Godfather Part II',
     },
     {
@@ -656,7 +656,7 @@ module.exports = [
     {
         unique_id: 128,
         quote:
-            'The first rule of Fight Club is: You do not talk about Fight Club.',
+        'The first rule of Fight Club is: You do not talk about Fight Club.',
         movieName: 'Fight Club',
     },
     {
@@ -685,88 +685,143 @@ module.exports = [
         movieName: 'The Goonies',
     },
     {
-      unique_id: 134,
-      quote: 'I don’t believe it. I just don’t believe it. I bring you here to protect me from these characters, and the only one I’ve got on my side is the blood-sucking lawyer.',
-      movieName: 'Jurassic Park'
+        unique_id: 134,
+        quote: 'I don’t believe it. I just don’t believe it. I bring you here to protect me from these characters, and the only one I’ve got on my side is the blood-sucking lawyer.',
+        movieName: 'Jurassic Park'
     },
     {
-      unique_id: 135,
-      quote: 'It\'s a UNIX system, I know this!',
-      movieName: 'Jurassic Park'
+        unique_id: 135,
+        quote: 'It\'s a UNIX system, I know this!',
+        movieName: 'Jurassic Park'
     },
     {
-      unique_id: 136,
-      quote: 'I have come here to chew bubblegum and kick ass... and I\'m all out of bubblegum.',
-      movieName: 'They Live'
+        unique_id: 136,
+        quote: 'I have come here to chew bubblegum and kick ass... and I\'m all out of bubblegum.',
+        movieName: 'They Live'
     },
     {
-      unique_id: 137,
-      quote: 'Gentlemen, you can\'t fight in here! This is the War Room.',
-      movieName: 'Dr. Strangelove: Or, How I Learned to Stop Worrying and Love the Bomb'
+        unique_id: 137,
+        quote: 'Gentlemen, you can\'t fight in here! This is the War Room.',
+        movieName: 'Dr. Strangelove: Or, How I Learned to Stop Worrying and Love the Bomb'
     },
     {
-      unique_id: 138,
-      quote: 'I see you\'re drinkin\' 1%. Is that \'cause you think you\'re fat? \'Cause you\'re not. You could be drinking whole if you wanted to.',
-      movieName: 'Napoleon Dynamite'
+        unique_id: 138,
+        quote: 'I see you\'re drinkin\' 1%. Is that \'cause you think you\'re fat? \'Cause you\'re not. You could be drinking whole if you wanted to.',
+        movieName: 'Napoleon Dynamite'
     },
     {
-      unique_id: 139,
-      quote: 'Marriage is like an unfunny tense version of Everybody Loves Raymond, but it doesn\'t last 22 minutes. It lasts forever.',
-      movieName: 'Knocked Up'
+        unique_id: 139,
+        quote: 'Marriage is like an unfunny tense version of Everybody Loves Raymond, but it doesn\'t last 22 minutes. It lasts forever.',
+        movieName: 'Knocked Up'
     },
     {
-      unique_id: 140,
-      quote: 'I\'m just one stomach flu away from my goal weight.',
-      movieName: 'The Devil Wears Prada'
+        unique_id: 140,
+        quote: 'I\'m just one stomach flu away from my goal weight.',
+        movieName: 'The Devil Wears Prada'
     },
     {
-      unique_id: 141,
-      quote: 'Just when I thought I was out, they pull me back in.',
-      movieName: 'The Godfather Part III'
+        unique_id: 141,
+        quote: 'Just when I thought I was out, they pull me back in.',
+        movieName: 'The Godfather Part III'
     },
     {
-      unique_id: 142,
-      quote: 'You is kind. You is smart. You is important.',
-      movieName: 'The Help'
+        unique_id: 142,
+        quote: 'You is kind. You is smart. You is important.',
+        movieName: 'The Help'
     },
     {
-      unique_id: 143,
-      quote: 'Every time a bell rings, an angel gets his wings.',
-      movieName: 'It\'s a Wonderful Life'
+        unique_id: 143,
+        quote: 'Every time a bell rings, an angel gets his wings.',
+        movieName: 'It\'s a Wonderful Life'
     },
     {
-      unique_id: 144,
-      quote: 'The greatest trick the devil ever pulled was convincing the world he didn\'t exist.',
-      movieName: 'The Usual Suspects'
+        unique_id: 144,
+        quote: 'The greatest trick the devil ever pulled was convincing the world he didn\'t exist.',
+        movieName: 'The Usual Suspects'
     },
     {
-      unique_id: 145,
-      quote: 'Oh yes, the past can hurt. But you can either run from it, or learn from it.',
-      movieName: 'The Lion King'
+        unique_id: 145,
+        quote: 'Oh yes, the past can hurt. But you can either run from it, or learn from it.',
+        movieName: 'The Lion King'
     },
     {
-      unique_id: 146,
-      quote: 'Why are you trying so hard to fit in when you were born to stand out?',
-      movieName: 'What a Girl Wants'
+        unique_id: 146,
+        quote: 'Why are you trying so hard to fit in when you were born to stand out?',
+        movieName: 'What a Girl Wants'
     },
     {
-      unique_id: 147,
-      quote: 'Don\'t let anyone ever make you feel like you don\'t deserve what you want.',
-      movieName: '10 Things I Hate About You'
+        unique_id: 147,
+        quote: 'Don\'t let anyone ever make you feel like you don\'t deserve what you want.',
+        movieName: '10 Things I Hate About You'
     },
     {
-      unique_id: 148,
-      quote: 'You cannot live your life to please others. The choice must be yours.',
-      movieName: 'Alice in Wonderland'
+        unique_id: 148,
+        quote: 'You cannot live your life to please others. The choice must be yours.',
+        movieName: 'Alice in Wonderland'
     },
     {
-      unique_id: 149,
-      quote: 'After a while, you learn to ignore the names people call you and just trust who you are.',
-      movieName: 'Shrek'
+        unique_id: 149,
+        quote: 'After a while, you learn to ignore the names people call you and just trust who you are.',
+        movieName: 'Shrek'
     },
     {
-      unique_id: 150,
-      quote: 'All we have to decide is what to do with the time that is given to us.',
-      movieName: 'Lord of the Rings: The Fellowship of the Ring'
+        unique_id: 150,
+        quote: 'All we have to decide is what to do with the time that is given to us.',
+        movieName: 'Lord of the Rings: The Fellowship of the Ring'
+    },
+    {
+        unique_id: 151,
+        quote: 'Stupid is as stupid does.',
+        movieName: 'Forrest Gump'
+    },
+    {
+        unique_id: 152,
+        quote: 'It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.',
+        movieName: 'Harry Potter'
+    },
+    {
+        unique_id: 153,
+        quote: 'It\'s hard to look back and see the truth about people you love.',
+        movieName: 'American History X'
+    },
+    {
+        unique_id: 154,
+        quote: 'What is it to be human? What is it to ache? What is it to be alive?',
+        movieName: 'Anomalisa'
+    },
+    {
+        unique_id: 155,
+        quote: 'Here’s the thing, being good or bad mostly depends on who you’re standing next to.',
+        movieName: 'The Bad Batch'
+    },
+    {
+        unique_id: 156,
+        quote: 'My face is mine, my hands are mine, my mouth is mine, but I\'m not. I\'m yours.',
+        movieName: 'Captain Fantastic'
+    },
+    {
+        unique_id: 157,
+        quote: 'You can tell a lot about a person by what\'s on their playlist.',
+        movieName: 'Begin Again'
+    },
+    {
+        unique_id: 158,
+        quote: 'Life is a comedy written by a sadistic comedy writer.',
+        movieName: 'Cafe Society'
+    },
+    {
+        unique_id: 159,
+        quote: 'If you assume that there is no hope, you guarantee that there will be no hope.',
+        movieName: 'Captain Fantastic'
+    },
+    {
+        unique_id: 160,
+        quote: 'Some people don\'t let you forget them.',
+        movieName: 'The Disappearance of Eleanor Rigby: Them'
+    },
+    {
+        unique_id: 161,
+        quote: 'There are some sins that you commit that you can\'t come back from, you know? No matter how hard you try. You just can\'t.',
+        movieName: 'The Drop'
     }
 ]
