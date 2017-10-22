@@ -856,5 +856,47 @@ module.exports = [
         quote:
             "You guys give up, or are you thirsty for more?",
         movieName: 'Home Alone',
+    },
+    {
+        unique_id: 164,
+        quote:
+            "Venture outside your comfort zone. The rewards are worth it.",
+        movieName: 'Tangled',
+    },
+    {
+        unique_id: 165,
+        quote:
+        "If you focus on what you left behind, you will never be able to see what lies ahead.",
+        movieName: 'Ratatouille',
+    }, 
+    {
+        unique_id: 166,
+        quote:
+        "The flower that blooms in adversity is the most rare and beautiful of all.",
+        movieName: 'Mulan',
+    },
+    {
+        unique_id: 167,
+        quote:
+        "In every job that must be done, there is an element of fun. You find the fun, and snap, the job's a game!",
+        movieName: 'Mary Poppins',
+    },
+    {
+        unique_id: 168,
+        quote:
+        "Life's not a spectator sport. If watchin' is all you're gonna do, then you're gonna watch your life go by without ya.",
+        movieName: 'The Hunchback of Notre Dame',
+    },
+    {
+        unique_id: 169,
+        quote:
+        "The problem is not the problem. The problem is your attitude about the problem.",
+        movieName: 'Pirates of the Caribbean',
+    },   
+    {
+        unique_id: 170,
+        quote:
+        "Oh yes, the past can hurt. But the way I see it, you can either run from it or learn from it.",
+        movieName: 'The Lion King',
     }
 ]
