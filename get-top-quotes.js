@@ -684,4 +684,34 @@ module.exports = [
         quote: 'Goonies never say die!',
         movieName: 'The Goonies',
     },
+    {
+      unique_id: 134,
+      quote: 'I don’t believe it. I just don’t believe it. I bring you here to protect me from these characters, and the only one I’ve got on my side is the blood-sucking lawyer.',
+      movieName: 'Jurassic Park'
+    },
+    {
+      unique_id: 135,
+      quote: 'It\'s a UNIX system, I know this!',
+      movieName: 'Jurassic Park'
+    },
+    {
+      unique_id: 136,
+      quote: 'I have come here to chew bubblegum and kick ass... and I\'m all out of bubblegum.',
+      movieName: 'They Live'
+    },
+    {
+      unique_id: 137,
+      quote: 'Gentlemen, you can\'t fight in here! This is the War Room.',
+      movieName: 'Dr. Strangelove: Or, How I Learned to Stop Worrying and Love the Bomb'
+    },
+    {
+      unique_id: 138,
+      quote: 'I see you\'re drinkin\' 1%. Is that \'cause you think you\'re fat? \'Cause you\'re not. You could be drinking whole if you wanted to.',
+      movieName: 'Napoleon Dynamite'
+    },
+    {
+      unique_id: 139,
+      quote: 'Marriage is like an unfunny tense version of Everybody Loves Raymond, but it doesn\'t last 22 minutes. It lasts forever.',
+      movieName: 'Knocked Up'
+    }
 ]
