@@ -713,5 +713,60 @@ module.exports = [
       unique_id: 139,
       quote: 'Marriage is like an unfunny tense version of Everybody Loves Raymond, but it doesn\'t last 22 minutes. It lasts forever.',
       movieName: 'Knocked Up'
+    },
+    {
+      unique_id: 140,
+      quote: 'I\'m just one stomach flu away from my goal weight.',
+      movieName: 'The Devil Wears Prada'
+    },
+    {
+      unique_id: 141,
+      quote: 'Just when I thought I was out, they pull me back in.',
+      movieName: 'The Godfather Part III'
+    },
+    {
+      unique_id: 142,
+      quote: 'You is kind. You is smart. You is important.',
+      movieName: 'The Help'
+    },
+    {
+      unique_id: 143,
+      quote: 'Every time a bell rings, an angel gets his wings.',
+      movieName: 'It\'s a Wonderful Life'
+    },
+    {
+      unique_id: 144,
+      quote: 'The greatest trick the devil ever pulled was convincing the world he didn\'t exist.',
+      movieName: 'The Usual Suspects'
+    },
+    {
+      unique_id: 145,
+      quote: 'Oh yes, the past can hurt. But you can either run from it, or learn from it.',
+      movieName: 'The Lion King'
+    },
+    {
+      unique_id: 146,
+      quote: 'Why are you trying so hard to fit in when you were born to stand out?',
+      movieName: 'What a Girl Wants'
+    },
+    {
+      unique_id: 147,
+      quote: 'Don\'t let anyone ever make you feel like you don\'t deserve what you want.',
+      movieName: '10 Things I Hate About You'
+    },
+    {
+      unique_id: 148,
+      quote: 'You cannot live your life to please others. The choice must be yours.',
+      movieName: 'Alice in Wonderland'
+    },
+    {
+      unique_id: 149,
+      quote: 'After a while, you learn to ignore the names people call you and just trust who you are.',
+      movieName: 'Shrek'
+    },
+    {
+      unique_id: 150,
+      quote: 'All we have to decide is what to do with the time that is given to us.',
+      movieName: 'Lord of the Rings: The Fellowship of the Ring'
     }
 ]
