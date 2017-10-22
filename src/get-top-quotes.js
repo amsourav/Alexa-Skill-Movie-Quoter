@@ -898,5 +898,11 @@ module.exports = [
         quote:
         "Oh yes, the past can hurt. But the way I see it, you can either run from it or learn from it.",
         movieName: 'The Lion King',
+    },   
+    {
+        unique_id: 171,
+        quote:
+        "I am Moana of Motunui. You will board my boat, sail across the ocean, and restore the heart of Te Fiti.",
+        movieName: 'Moana',
     }
 ]
