@@ -850,5 +850,11 @@ module.exports = [
         quote:
             "Keep the change, ya filthy animal!",
         movieName: 'Home Alone',
+    },
+    {
+        unique_id: 163,
+        quote:
+            "You guys give up, or are you thirsty for more?",
+        movieName: 'Home Alone',
     }
 ]
