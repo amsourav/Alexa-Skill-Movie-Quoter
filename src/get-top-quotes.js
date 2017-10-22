@@ -34,7 +34,6 @@ module.exports = [
         quote: 'Go ahead, make my day.',
         movieName: 'Sudden Impact',
     },
-
     {
         unique_id: 6,
         quote: "All right, Mr. DeMille, I'm ready for my close-up.",

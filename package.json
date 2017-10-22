@@ -9,7 +9,7 @@
         "build": "zip -r ./build/MovieQuoterAlexa.zip src/*.js"
     },
     "lint-staged": {
-        "src/*.js": [
+        "src/**/*.{js,json}": [
             "prettier --no-semi false --single-quote --tab-width 4 --trailing-comma es5 --write",
             "git add"
         ]
