@@ -8,7 +8,7 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "lint-staged": {
-        "*.{js,json}": [
+        "*.js": [
             "prettier --no-semi false --single-quote --tab-width 4 --trailing-comma es5 --write",
             "git add"
         ]
