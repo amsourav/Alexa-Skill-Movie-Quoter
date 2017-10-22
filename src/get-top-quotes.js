@@ -845,4 +845,16 @@ module.exports = [
             "There are some sins that you commit that you can't come back from, you know? No matter how hard you try. You just can't.",
         movieName: 'The Drop',
     },
+    {
+        unique_id: 162,
+        quote:
+            "Keep the change, ya filthy animal!",
+        movieName: 'Home Alone',
+    },
+    {
+        unique_id: 163,
+        quote:
+            "You guys give up, or are you thirsty for more?",
+        movieName: 'Home Alone',
+    }
 ]
