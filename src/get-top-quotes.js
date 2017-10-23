@@ -730,6 +730,10 @@ const quotes = [{
         quote: "You take the red pill, you stay in Wonderland and I show you how deep the rabbit-hole goes.",
         movieName: "The Matrix",
     },
+    {
+        quote: "Gretchen, stop trying to make fetch happen! It's not going to happen! ",
+        movieName: "Mean Girls",
+    },
 ];
 
 const quotesWithIds = quotes.map((quote, i) => Object.assign(quote, {
