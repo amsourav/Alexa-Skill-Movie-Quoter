@@ -734,6 +734,10 @@ const quotes = [{
         quote: "Gretchen, stop trying to make fetch happen! It's not going to happen! ",
         movieName: "Mean Girls",
     },
+    {
+        quote: "Don't ever let somebody tell you... you can't do something. Not even me. Alright?",
+        movieName: "The Pursuit of Happyness",
+    }
 ];
 
 const quotesWithIds = quotes.map((quote, i) => Object.assign(quote, {
