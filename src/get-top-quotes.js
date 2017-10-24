@@ -1,10 +1,13 @@
 /**
  * @prettier
  */
-
 const quotes = [{
         quote: "Frankly, my dear, I don't give a damn.",
         movieName: 'Gone with the Wind',
+    },
+    {
+        quote: "Artists use lies to tell the truth. Yes, I created a lie. But because you believed it, you found something true about yourself.",
+        movieName: 'V for Vendetta',
     },
     {
         quote: "I'm gonna make him an offer he can't refuse.",
