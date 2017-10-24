@@ -1,8 +1,7 @@
 /**
  * @prettier
  */
-const quotes = [
-  	{
+const quotes = [{
         quote: "Frankly, my dear, I don't give a damn.",
         movieName: 'Gone with the Wind',
     },
