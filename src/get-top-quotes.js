@@ -338,7 +338,7 @@ const quotes = [{
         movieName: 'Dracula',
     },
     {
-        quote: "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+        quote: "Oh, no, it wasn't the airplanes. It was Beauty that killed the Beast.",
         movieName: 'King Kong',
     },
     {
