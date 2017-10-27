@@ -5,6 +5,11 @@
 
 var quotesArray = require('./get-top-quotes')
 
+// Obtain secret API key for free at: https://market.mashape.com/andruxnet/random-famous-quotes
+var QUOTE_API_SECRET = 'MY-SUPER-SECRET-KEY'
+var QUOTE_API_URL = 'https://andruxnet-random-famous-quotes.p.mashape.com/?cat=movies&count=1'
+
+
 exports.handler = function(event, context) {
     try {
         console.log(
@@ -131,10 +136,12 @@ function onSessionEnded(sessionEndedRequest, session) {
 }
 
 function handleAskQuoteRequest(intent, session, callback) {
-    callback(
-        session.attributes,
-        buildSpeechletResponseWithoutCard(getQuote().quote, '', true)
-    )
+    getQuote().then(quote => {
+        callback(
+            session.attributes,
+            buildSpeechletResponseWithoutCard(getQuote().quote, '', true)
+        )
+    })
 }
 
 // ------- Helper functions to build responses -------
@@ -190,5 +197,17 @@ function buildResponse(sessionAttributes, speechletResponse) {
 
 // Random number generator :smile:
 function getQuote() {
-    return quotesArray[Date.now() % quotesArray.length]
+    return fetch(QUOTE_API_URL, {
+        headers: {
+            "X-Mashape-Key": QUOTE_API_SECRET
+        }
+    })
+    .then(response => {
+        if (!response.ok) {
+            throw Error(response.statusText);
+        }
+        response.json()
+    })
+    .then(json => ({ quote: json.quote, movieName: json.author }))
+    .catch(err => quotesArray[Date.now() % quotesArray.length])
 }
