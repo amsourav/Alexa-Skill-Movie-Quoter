@@ -740,6 +740,10 @@ const quotes = [{
     {
         quote: "Don't ever let somebody tell you... you can't do something. Not even me. Alright?",
         movieName: "The Pursuit of Happyness",
+    },
+    {
+        quote: "That's no Moon, It's a space station",
+        movieName: "Star Wars: A New Hope",
     }
 ];
 
