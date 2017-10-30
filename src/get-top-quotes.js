@@ -6,6 +6,14 @@ const quotes = [{
         movieName: 'Gone with the Wind',
     },
     {
+                        quote: "Oh, Jerry, don't let's ask for the moon. We have the stars.",
+                        movieName: 'Now, Voyager',
+    },
+    {
+                        quote: "I have always depended on the kindness of strangers.",
+                        movieName: 'A StreetCar Named Desire',
+    },
+    {
         quote: "Artists use lies to tell the truth. Yes, I created a lie. But because you believed it, you found something true about yourself.",
         movieName: 'V for Vendetta',
     },
