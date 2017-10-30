@@ -6,12 +6,12 @@ const quotes = [{
         movieName: 'Gone with the Wind',
     },
     {
-                        quote: "Oh, Jerry, don't let's ask for the moon. We have the stars.",
-                        movieName: 'Now, Voyager',
+        quote: "Oh, Jerry, don't let's ask for the moon. We have the stars.",
+        movieName: 'Now, Voyager',
     },
     {
-                        quote: "I have always depended on the kindness of strangers.",
-                        movieName: 'A StreetCar Named Desire',
+        quote: "I have always depended on the kindness of strangers.",
+        movieName: 'A StreetCar Named Desire',
     },
     {
         quote: "Artists use lies to tell the truth. Yes, I created a lie. But because you believed it, you found something true about yourself.",
@@ -346,7 +346,7 @@ const quotes = [{
         movieName: 'Dracula',
     },
     {
-        quote: "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+        quote: "Oh, no, it wasn't the airplanes. It was Beauty that killed the Beast.",
         movieName: 'King Kong',
     },
     {
@@ -748,6 +748,10 @@ const quotes = [{
     {
         quote: "Don't ever let somebody tell you... you can't do something. Not even me. Alright?",
         movieName: "The Pursuit of Happyness",
+    },
+    {
+        quote: "That's no Moon, It's a space station",
+        movieName: "Star Wars: A New Hope",
     }
 ];
 
