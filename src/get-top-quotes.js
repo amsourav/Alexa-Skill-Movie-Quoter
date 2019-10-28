@@ -752,6 +752,10 @@ const quotes = [{
     {
         quote: "That's no Moon, It's a space station",
         movieName: "Star Wars: A New Hope",
+    },
+    {
+        quote: "You're a wizard, Harry!",
+        movieName: "Harry Potter and the Sorcerer's Stone",
     }
 ];
 
