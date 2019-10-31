@@ -754,6 +754,14 @@ const quotes = [{
         movieName: "Star Wars: A New Hope",
     },
     {
+        quote: "You'll know when you meet the right girl because it's not how you feel about her it's how she makes you feel about yourself.",
+        movieName: "The Wedding Singer",
+    },
+    {
+        quote: "Do you know what happens to a toad when it's struck by lightning? The same thing that happens to everything else.",
+        movieName: "X-Men",
+    },
+    {
         quote: "You're a wizard, Harry!",
         movieName: "Harry Potter and the Sorcerer's Stone",
     }
